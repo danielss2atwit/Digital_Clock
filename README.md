@@ -1,21 +1,20 @@
-# To Do List App 📋
+# Digital Clock App ⏰
 
-A simple To-Do List web app where users can add/delete tasks and change whether a task is near the top or bottom of a list.
+A simple digital clock app created to practing useEffect() in React.
 
 ## Live Demo 🖥️
 🔗 [Click here to try the app](https://danielss2atwit.github.io/Digital_Clock/)
 
 ## Preview 📷
-<img src="https://github.com/user-attachments/assets/9a7b7e8f-68e1-4018-8338-a63035bf62d3" alt="Screenshot of Digital Clock App" width="500"/>
+<img src="https://github.com/user-attachments/assets/cb0f3ddd-f54f-433a-bc9a-ba8c8a9624ca" alt="Screenshot of Digital Clock App" width="500"/>
 
 ## Features 💡
-- Add Tasks
-- Delete Tasks'
-- Move task up on the list
-- Move task down on the list
-- Simple and clean user interface
+- Cool background
+- live time with hours, minutes and seconds
 
 ## Built With 🔨
 - React
 - Vite
 - HTML
+- CSS
+- JavaScript
